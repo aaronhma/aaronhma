@@ -11,16 +11,9 @@
 
 <div style="display: flex !important;">
 
-[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aaronhma)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/air-rn/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![hi@aaronhma.com](https://skillicons.dev/icons?i=gmail)](mailto:hi@aaronhma.com)
-
+<a href="https://twitter.com/aaronhma"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter"/></a>
+<a href="https://www.linkedin.com/in/air-rn/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:hi@aaronhma.com"><img src="https://skillicons.dev/icons?i=gmail" alt="hi@aaronhma.com"/></a>
 </div>
 
 - 📍 I'm from Earth, The Milky Way 🌍
@@ -34,11 +27,8 @@
 
 <div style="display: flex !important;">
 
-[![View the code](https://skillicons.dev/icons?i=github)](https://github.com/Visual-Studio-Coder/QR-Share-Pro?tab=readme-ov-file)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![Download app](https://skillicons.dev/icons?i=apple)](https://apps.apple.com/us/app/qr-share-pro/id6479589995)
+<a href="https://github.com/TopGApps/QR-Share-Pro"><img src="https://skillicons.dev/icons?i=github" alt="View the code"/></a>
+<a href="https://apps.apple.com/us/app/qr-share-pro/id6479589995"><img src="https://skillicons.dev/icons?i=apple" alt="Download app"/></a>
 
 </div>
 
@@ -58,11 +48,12 @@ TL;DR: The only QR code app on the store that cares about your privacy. No creep
 
 > What's on my computer?
 
-- 👨‍💻 IDE: [VSCode](https://code.visualstudio.com/), [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/)
+- 👨‍💻 IDE: [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/)
 - 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/), [Blender](https://www.blender.org/)
 - 🔍 Browser: [Arc](https://arc.net/), [SigmaOS](https://sigmaos.com/), [Orion](https://kagi.com/orion/)
 - ⚡ Productivity Tools: [Raycast](https://www.raycast.com/), [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/)
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
 - 📫 Mail: [Proton Mail](https://proton.me/mail)
+- 🌐 VPN: [Proton VPN](https://protonvpn.com/)
 - 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
 - 🎁 Other: [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay)
