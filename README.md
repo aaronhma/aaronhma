@@ -11,7 +11,7 @@
 
 <div style="display: flex !important;">
 
-<a href="https://twitter.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
+<a href="https://x.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
 <a href="https://www.linkedin.com/in/air-rn/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:hi@aaronhma.com"><img src="https://skillicons.dev/icons?i=gmail" alt="hi@aaronhma.com" /></a>
 
@@ -80,7 +80,7 @@ TL;DR: The only QR code app on the store that cares about your privacy. No creep
 <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank"><img src="https://skillicons.dev/icons?i=svg" alt="SVG" /></a>
 <a href="https://www.swift.org/" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
-<a href="https://twitter.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
+<a href="https://x.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
 <a href="https://vscodium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
@@ -98,8 +98,5 @@ TL;DR: The only QR code app on the store that cares about your privacy. No creep
 - 🔍 Browser: [Arc](https://arc.net/gift/b33255c9), [SigmaOS](https://sigmaos.com/), [Orion](https://kagi.com/orion/)
 - ⚡ Productivity Tools: [Raycast](https://www.raycast.com/), [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/)
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
-- 📫 Mail: [Proton Mail](https://proton.me/mail)
-- 🌐 VPN: [Proton VPN](https://protonvpn.com/)
-- 🛡️ Privacy: [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
 - 🎁 Other: [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay)
