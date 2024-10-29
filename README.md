@@ -38,6 +38,18 @@ TL;DR: The only QR code app on the store that cares about your privacy. No creep
 
 [![Download on the App Store](app-store.svg)](https://apps.apple.com/us/app/qr-share-pro/id6479589995)
 
+### System Information
+
+<div style="display: flex !important;">
+
+<a href="https://github.com/aaronhma/system-information/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
+
+</div>
+
+Get quick access to your system information so that you never have to open System Settings! You can access the following: hostname, chip, memory, serial number, OS version, Darwin kernel version, disk usage (free/total space in GB), IP address of connected network devices, currently running processes (fully searchable + quitting processes).
+
+<a title="Install system-information Raycast Extension" href="https://www.raycast.com/Visual-Studio-Coder/system-information"><img src="https://www.raycast.com/Visual-Studio-Coder/system-information/install_button@2x.png?v=1.1" height="55" alt="" style="height: 64px;"></a>
+
 ## 🔨 Languages, Tools & Platforms
 
 > What languages/tools/platforms do I use?
@@ -66,6 +78,7 @@ TL;DR: The only QR code app on the store that cares about your privacy. No creep
 <a href="https://www.linkedin.com/in/air-rn/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/torvalds/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 <a href="https://github.com/skills/communicate-using-markdown?tab=readme-ov-file" target="_blank"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
+<a href="https://neovim.io/" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" /></a>
 <a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" /></a>
