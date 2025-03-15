@@ -23,32 +23,9 @@
 
 > What projects am I currently working on?
 
-### QR Share Pro
+### Stealth Startup
 
-<div style="display: flex !important;">
-
-<a href="https://github.com/TopGApps/QR-Share-Pro" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
-<a href="https://apps.apple.com/us/app/qr-share-pro/id6479589995" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Download app" /></a>
-
-</div>
-
-QR Share Pro is the next-generation way to scan, share, and generate QR codes. We offer a quick method to generate codes from anywhere on your phone by simply clicking on the share menu and tapping our icon. You will be presented with a beautiful QR code that is as versatile as it looks. It's even added to your history tab after you generate it.
-
-TL;DR: The only QR code app on the store that cares about your privacy. No creepy data selling, 100% free, no ads, no in-app purchases. [Learn more →](https://github.com/Visual-Studio-Coder/QR-Share-Pro/blob/master/PRIVACY.md)
-
-[![Download on the App Store](app-store.svg)](https://apps.apple.com/us/app/qr-share-pro/id6479589995)
-
-### System Information
-
-<div style="display: flex !important;">
-
-<a href="https://github.com/aaronhma/system-information/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
-
-</div>
-
-Get quick access to your system information so that you never have to open System Settings! You can access the following: hostname, chip, memory, serial number, OS version, Darwin kernel version, disk usage (free/total space in GB), IP address of connected network devices, currently running processes (fully searchable + quitting processes).
-
-<a title="Install system-information Raycast Extension" href="https://www.raycast.com/Visual-Studio-Coder/system-information"><img src="https://www.raycast.com/Visual-Studio-Coder/system-information/install_button@2x.png?v=1.1" height="55" alt="" style="height: 64px;"></a>
+I'm currently working on a stealth startup. Check back soon for more info on when we launch! :)
 
 ## 🔨 Languages, Tools & Platforms
 
