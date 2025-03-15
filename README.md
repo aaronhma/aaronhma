@@ -25,7 +25,8 @@
 
 ### Stealth Startup
 
-I'm currently working on a stealth startup. Check back soon for more info on when we launch! :)
+I'm currently working on a revolutionary startup idea. Check back soon for more info on when we launch! :)
+
 
 ## 🔨 Languages, Tools & Platforms
 
