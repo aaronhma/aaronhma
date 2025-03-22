@@ -23,6 +23,10 @@
 
 > What projects am I currently working on?
 
+### New Website
+
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soon!
+
 ### Stealth Startup
 
 I'm currently working on a revolutionary startup idea. Check back soon for more info on when we launch! :)
