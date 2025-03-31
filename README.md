@@ -7,6 +7,8 @@
  \_||_|\_||_|_|   \___/|_| |_|  |_|_|_|\_||_|
 ```
 
+## I make things that people love 💖
+
 ## 🤝 Let's connect 👇
 
 <div style="display: flex !important;">
@@ -25,11 +27,15 @@
 
 ### New Website
 
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soon!
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available in April!
 
 ### Stealth Startup
 
 I'm currently working on a revolutionary startup idea. Check back soon for more info on when we launch! :)
+
+- Product 1: `??` (launching later this year)
+- Product 2: `??` (launching later this year)
+- Product 3: `??` (launching later this year)
 
 
 ## 🔨 Languages, Tools & Platforms
