@@ -25,9 +25,13 @@
 
 > What projects am I currently working on?
 
+### A New Browser
+
+Our browser is our window to everything on the internet - but it can be overwhelming at times. This browser changes everything. It's the modern AI-powered browser you've been waiting for. It's everything Safari should have been - and more.
+
 ### New Website
 
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available in April!
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month.
 
 ### Stealth Startup
 
@@ -51,26 +55,42 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" /></a>
 <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+<a href="https://bun.sh/" target="_blank"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+<a href="https://www.c-language.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+<a href="https://cmake.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+<a href="https://deno.com/" target="_blank"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 <a href="https://github.com/pallets/flask" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+<a href="https://mail.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 <a href="https://github.com/whatwg/html/tree/main" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JS" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="Latex" /></a>
 <a href="https://www.linkedin.com/in/air-rn/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/torvalds/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+<a href="https://neovim.io/doc/user/lua.html" target="_blank"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
 <a href="https://github.com/skills/communicate-using-markdown?tab=readme-ov-file" target="_blank"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 <a href="https://neovim.io/" target="_blank"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" /></a>
 <a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" /></a>
+<a href="https://github.com/pnpm/pnpm" target="_blank"><img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+<a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
 <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
@@ -85,8 +105,9 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 <a href="https://x.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
-<a href="https://vscodium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+<a href="https://vscodium.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
+<a href="https://workers.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=workers" alt="Cloudflare Workers" /></a>
 <a href="https://yarnpkg.com/" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" alt="Yarn" /></a>
 
 </div>
