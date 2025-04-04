@@ -53,6 +53,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://www.electronjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
@@ -96,8 +97,9 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 
 - 👨‍💻 IDE: [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/), [Nova](https://nova.app/)
 - 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/), [Blender](https://www.blender.org/)
-- 🔍 Browser: [Arc](https://arc.net/gift/b33255c9), [SigmaOS](https://sigmaos.com/), [Orion](https://kagi.com/orion/)
-- ⚡ Productivity Tools: [Raycast](https://www.raycast.com/), [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/)
+- 🔍 Browser: [Arc](https://arc.net/gift/b33255c9), [Dia](https://www.diabrowser.com/), [Zen Browser](https://zen-browser.app/), [Orion](https://kagi.com/orion/)
+- ⚡ Productivity Tools: [Ghostty](https://ghostty.org/), [Raycast](https://www.raycast.com/), [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/), [BatFi](https://github.com/rurza/BatFi)
+- 🧠 AI Tools: [LM Studio](https://lmstudio.ai/), [Ollama](https://ollama.com/), [Cursor](https://www.cursor.com/), [Windsurf](https://www.windsurf.com/editor), [Claude](https://claude.ai/), [Perplexity](https://www.perplexity.ai/) 
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
 - 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
-- 🎁 Other: [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+- 🎁 Other: [Docker](https://www.docker.com/), [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay), [Bartender](https://www.macbartender.com/Bartender5/), [CleanMyMac](https://cleanmymac.com/)
