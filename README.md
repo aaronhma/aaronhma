@@ -128,3 +128,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
 - 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
 - 🎁 Other: [Docker](https://www.docker.com/), [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay), [Bartender](https://www.macbartender.com/Bartender5/), [CleanMyMac](https://cleanmymac.com/)
+
+## 🤣 Programmer Humor
+
+![Meme](meme.jpg)
