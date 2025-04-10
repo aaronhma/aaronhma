@@ -11,7 +11,7 @@
 >
 > ***- Steve Jobs***
 
-## I make things that people love 💖
+## I make things people love 💖
 
 ## 🤝 Let's connect 👇
 
