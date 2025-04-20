@@ -46,9 +46,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 - Product 3: `??` (launching later this year)
 
 
-## 🔨 Languages, Tools & Platforms
-
-> What languages/tools/platforms do I use?
+## 🔨 Languages, Tools & Platforms I Use
 
 <div style="display: flex !important;">
 
