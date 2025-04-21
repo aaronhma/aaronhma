@@ -114,9 +114,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 
 </div>
 
-## 🎁 Software
-
-> What's on my computer?
+## 🎁 Software I Use
 
 - 👨‍💻 IDE: [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/) with [Catppuccin Macchiato](https://github.com/catppuccin/zed) theme and [Catppuccin](https://github.com/catppuccin/zed-icons) icons, [Nova](https://nova.app/) with Panic Neon theme
 - 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/), [Blender](https://www.blender.org/)
