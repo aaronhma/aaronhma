@@ -34,20 +34,21 @@
 <!--
 <div style="display: flex !important;">
 
-<a href="https://github.com/aaronhma/${repo_name}" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
-<a href="${testflight_link}" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Get the beta on TestFlight" /></a>
+<a href="https://github.com/aaronhma/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
+<a href="https://testflight.apple.com/join/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Get the beta on TestFlight" /></a>
 
 </div>
 -->
 
 Our browser is our window to everything on the internet - but it can be overwhelming at times. This browser changes everything. It's the modern AI-powered browser you've been waiting for. It's everything Safari should have been - and more.
 
-<!-- [Get the beta on TestFlight ↗](https://testflight.apple.com) -->
+<!-- [Get the beta on TestFlight ↗](https://testflight.apple.com/join//) -->
 
-### New Website
+<!-- ### New Website
 
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month.
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month. -->
 
+<!--
 ### Stealth Startup
 
 I'm currently working on a revolutionary startup idea. Check back soon for more info on when we launch! :)
@@ -55,7 +56,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 - Product 1: `??` (launching later this year)
 - Product 2: `??` (launching later this year)
 - Product 3: `??` (launching later this year)
-
+-->
 
 ## 🔨 Languages, Tools & Platforms I Use
 
