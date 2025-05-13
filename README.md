@@ -25,6 +25,12 @@
 
 ###  Apple Developer from Earth, The Milky Way 🌍
 
+## My core values drive everything I do:
+
+- 🆓 I believe in the power of free and open-source software.
+- 🔐 Security and privacy are non-negotiables - no ads, trackers, malware, or invasive telemetry here!
+- ✨ I'm all about modern design with a clean and satisfying user interface.
+
 ## ✨ What's New
 
 > What projects am I currently working on?
