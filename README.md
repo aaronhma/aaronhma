@@ -33,8 +33,6 @@
 
 ## ✨ What's New
 
-> What projects am I currently working on?
-
 ### A New Browser
 
 <!--
