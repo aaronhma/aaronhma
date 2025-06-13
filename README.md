@@ -48,9 +48,9 @@ Our browser is our window to everything on the internet - but it can be overwhel
 
 <!-- [Get the beta on TestFlight ↗](https://testflight.apple.com/join//) -->
 
-<!-- ### New Website
+### New Website
 
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month. -->
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month, with a stunning, all-new glass design.
 
 <!--
 ### Stealth Startup
