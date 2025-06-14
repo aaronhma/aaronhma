@@ -33,20 +33,20 @@
 
 ## ✨ What's New
 
+<!--
 ### A New Browser
 
-<!--
 <div style="display: flex !important;">
 
 <a href="https://github.com/aaronhma/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
 <a href="https://testflight.apple.com/join/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Get the beta on TestFlight" /></a>
 
 </div>
--->
+
 
 Our browser is our window to everything on the internet - but it can be overwhelming at times. This browser changes everything. It's the modern AI-powered browser you've been waiting for. It's everything Safari should have been - and more.
 
-<!-- [Get the beta on TestFlight ↗](https://testflight.apple.com/join//) -->
+[Get the beta on TestFlight ↗](https://testflight.apple.com/join//) -->
 
 ### New Website
 
