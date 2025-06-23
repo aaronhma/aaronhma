@@ -139,7 +139,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 - 🧠 AI Tools: [LM Studio](https://lmstudio.ai/), [Ollama](https://ollama.com/), [Cursor](https://www.cursor.com/), [Claude](https://claude.ai/), [Perplexity](https://www.perplexity.ai/) 
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
 - 😤 Git Merge Conflict Editor: [GitKraken](https://www.gitkraken.com/)
-- 🎁 Other: [Docker](https://www.docker.com/), [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay), [Bartender](https://www.macbartender.com/Bartender5/)
+- 🎁 Other: [Docker](https://www.docker.com/), [MediaMate](https://wouter01.github.io/MediaMate/), [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 
 ## 🤣 Programmer Humor
 
