@@ -134,7 +134,7 @@ I'm currently working on a revolutionary startup idea. Check back soon for more 
 
 - 👨‍💻 IDE: [Xcode](https://developer.apple.com/xcode/), [Zed](https://zed.dev/) with [Catppuccin Macchiato](https://github.com/catppuccin/zed) theme and [Catppuccin](https://github.com/catppuccin/zed-icons) icons, [Nova](https://nova.app/) with Panic Neon theme
 - 🎨 Design: [Figma](https://www.figma.com/), [Move](https://www.linearity.io/move/), [Linearity Curve](https://www.linearity.io/curve/), [Blender](https://www.blender.org/)
-- 🔍 Browser: [Arc](https://arc.net/gift/b33255c9), [Dia](https://www.diabrowser.com/), [Zen Browser](https://zen-browser.app/), [Orion](https://kagi.com/orion/)
+- 🔍 Browser: [Arc](https://arc.net/gift/b33255c9), [Dia](https://diabrowser.com/invite/MRT8S9), [Zen Browser](https://zen-browser.app/), [Orion](https://kagi.com/orion/)
 - ⚡ Productivity Tools: [Ghostty](https://ghostty.org/) with [lovelace](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/lovelace.itermcolors) theme, [Raycast](https://www.raycast.com/) with Midnight theme, [Shottr](https://shottr.cc/), [HazeOver](https://hazeover.com/), [BatFi](https://github.com/rurza/BatFi)
 - 🧠 AI Tools: [LM Studio](https://lmstudio.ai/), [Ollama](https://ollama.com/), [Cursor](https://www.cursor.com/), [Claude](https://claude.ai/), [Perplexity](https://www.perplexity.ai/) 
 - 🎵 Music: [Apple Music](https://music.apple.com/us/browse)
