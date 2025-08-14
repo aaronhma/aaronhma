@@ -33,34 +33,20 @@
 
 ## ✨ What's New
 
-<!--
-### A New Browser
+### Satyrn: Meet texting, again
 
+<!--
 <div style="display: flex !important;">
 
 <a href="https://github.com/aaronhma/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
 <a href="https://testflight.apple.com/join/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Get the beta on TestFlight" /></a>
 
 </div>
-
-
-Our browser is our window to everything on the internet - but it can be overwhelming at times. This browser changes everything. It's the modern AI-powered browser you've been waiting for. It's everything Safari should have been - and more.
-
-[Get the beta on TestFlight ↗](https://testflight.apple.com/join//) -->
-
-### New Website
-
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience will be available this month, with a stunning, all-new glass design.
-
-<!--
-### Stealth Startup
-
-I'm currently working on a revolutionary startup idea. Check back soon for more info on when we launch! :)
-
-- Product 1: `??` (launching later this year)
-- Product 2: `??` (launching later this year)
-- Product 3: `??` (launching later this year)
 -->
+
+Texting is broken. We're here to fix it. Imagine you're in the room together, but over texting. The TestFlight beta link drops next Tuesday!
+
+<!--[Get the beta on TestFlight ↗](https://testflight.apple.com/join/)-->
 
 ## 🔨 Languages, Tools & Platforms I Use
 
