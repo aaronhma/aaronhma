@@ -44,9 +44,12 @@
 </div>
 -->
 
-Texting is broken. We're here to fix it. Imagine you're in the room together, but over texting. The TestFlight beta link drops next Tuesday!
+Texting is broken. We're here to fix it. Imagine you're in the room together, but over texting.
 
-<!--[Get the beta on TestFlight ↗](https://testflight.apple.com/join/)-->
+>[!IMPORTANT]
+> This is an **extremely** unstable beta app. Bugs will be fixed starting late September.
+
+[Get the beta on TestFlight ↗](https://satyrn.vercel.app/invite/Aaron%20Ma)
 
 ## 🔨 Languages, Tools & Platforms I Use
 
