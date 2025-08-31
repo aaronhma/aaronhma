@@ -33,6 +33,15 @@
 
 ## ✨ What's New
 
+### New Website
+
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is available now for alpha testing, with a stunning, all-new glass design.
+
+>[!IMPORTANT]
+> This is an **extremely** unstable, in development website. Bugs will be fixed starting late September.
+
+[Try it now ↗](https://aaronhma.vercel.app/)
+
 ### Satyrn: Meet texting, again
 
 <!--
