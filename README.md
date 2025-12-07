@@ -38,11 +38,9 @@
 The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is available now for alpha testing, with a stunning, all-new glass design.
 
 >[!IMPORTANT]
-> This is an **extremely** unstable, in development website. Bugs will be fixed starting late September.
+> This is an in development website.
 
 [Try it now ↗](https://aaronhma.vercel.app/)
-
-### Satyrn: Meet texting, again
 
 <!--
 <div style="display: flex !important;">
@@ -52,13 +50,6 @@ The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is available 
 
 </div>
 -->
-
-Texting is broken. We're here to fix it. Imagine you're in the room together, but over texting.
-
->[!IMPORTANT]
-> This is an **extremely** unstable beta app. Bugs will be fixed starting late September.
-
-[Get the beta on TestFlight ↗](https://satyrn.vercel.app/invite/Aaron%20Ma)
 
 ## 🔨 Languages, Tools & Platforms I Use
 
