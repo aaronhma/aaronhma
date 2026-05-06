@@ -25,7 +25,7 @@
 
 ###  Apple Developer from Earth, The Milky Way 🌍
 
-### [NYU Logo](nyu.svg) Computer Science Student @ [New York University](https://github.com/nyu)
+### <img src="nyu.svg" alt="NYU Logo" height="50" width="50" /> Computer Science Student @ [New York University](https://github.com/nyu)
 
 ## My core values drive everything I do:
 
