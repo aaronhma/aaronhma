@@ -25,6 +25,8 @@
 
 ###  Apple Developer from Earth, The Milky Way 🌍
 
+### [NYU Logo](nyu.svg) Computer Science Student @ [New York University](https://github.com/nyu)
+
 ## My core values drive everything I do:
 
 - 🆓 I believe in the power of free and open-source software.
