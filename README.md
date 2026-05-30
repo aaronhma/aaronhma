@@ -37,12 +37,7 @@
 
 ### New Website
 
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is available now for alpha testing, with a stunning, all-new glass design.
-
->[!IMPORTANT]
-> This is an in development website.
-
-[Try it now ↗](https://aaronhma.vercel.app/)
+The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soon.
 
 <!--
 <div style="display: flex !important;">
