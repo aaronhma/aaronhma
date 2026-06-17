@@ -48,6 +48,13 @@ The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soo
 </div>
 -->
 
+### Skool Downloader
+
+Own every Skool community you're in. One click saves an entire classroom (videos, transcripts, articles, posts and members) into tidy folders that are yours to keep, forever.
+
+- <a href="https://github.com/aaronhma/skool-downloader" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" />&nbsp;View the code ↗️</a>
+- <a href="https://skool-downloader.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="View the code" />&nbsp;Try it out ↗️</a>
+
 ## 🔨 Languages, Tools & Platforms I Use
 
 <div style="display: flex !important;">
