@@ -33,11 +33,18 @@
 - 🔐 Security and privacy are non-negotiables - no ads, trackers, malware, or invasive telemetry here!
 - ✨ I'm all about modern design with a clean and satisfying user interface.
 
+<!--
 ## ✨ What's New
+
+Tempora mutantur, nos et mutamur in illis.
+-->
+
+<!--
 
 ### New Website
 
 The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soon.
+-->
 
 <!--
 <div style="display: flex !important;">
