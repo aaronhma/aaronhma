@@ -19,7 +19,6 @@
 
 <a href="https://x.com/aaronhma" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X, formerly known as Twitter" /></a>
 <a href="https://www.linkedin.com/in/air-rn/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:hi@aaronhma.com"><img src="https://skillicons.dev/icons?i=gmail" alt="hi@aaronhma.com" /></a>
 
 </div>
 
@@ -40,28 +39,12 @@ Tempora mutantur, nos et mutamur in illis.
 -->
 
 <!--
-
-### New Website
-
-The re-designed [`aaronhma.com`](https://aaronhma.com/) experience is coming soon.
--->
-
-<!--
 <div style="display: flex !important;">
 
 <a href="https://github.com/aaronhma/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" /></a>
 <a href="https://testflight.apple.com/join/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="Get the beta on TestFlight" /></a>
 
 </div>
--->
-
-<!--
-### Skool Downloader
-
-Own every Skool community you're in. One click saves an entire classroom (videos, transcripts, articles, posts and members) into tidy folders that are yours to keep, forever.
-
-- <a href="https://github.com/aaronhma/skool-downloader" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="View the code" />&nbsp;View the code ↗️</a>
-- <a href="https://skool-downloader.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="View the code" />&nbsp;Try it out ↗️</a>
 -->
 
 ## 🔨 Languages, Tools & Platforms I Use
